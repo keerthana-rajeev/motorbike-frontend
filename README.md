@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# motorbike-frontend [![](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)](https://img.shields.io/badge/version) [![](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/keerthana-rajeev/web-scrapy/blob/main/LICENSE.md) [![](https://img.shields.io/github/issues/atapas/model-repo?colorB=A020F0)](https://github.com/keerthana-rajeev/web-scrapy/issues) [![](https://img.shields.io/github/issues-pr/atapas/model-repo?colorB=ff0000)](https://github.com/keerthana-rajeev/web-scrapy/pulls)
+# motorbike-frontend [![](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)](https://img.shields.io/badge/version) [![](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/keerthana-rajeev/motorbike-frontend/blob/main/LICENSE.md) [![](https://img.shields.io/github/issues/atapas/model-repo?colorB=A020F0)](https://github.com/keerthana-rajeev/motorbike-frontend/issues) [![](https://img.shields.io/github/issues-pr/atapas/model-repo?colorB=ff0000)](https://github.com/keerthana-rajeev/motorbike-frontend/pulls)
 
 <details open="open">
 <summary>Table of Contents</summary>
@@ -55,6 +55,6 @@ This project is licensed under the [MIT](https://github.com/keerthana-rajeev/mot
 
 <p align="center">
     .
-    <a href="https://github.com/keerthana-rajeev/web-scrapy/issues/new/choose">Report Bugs</a>
+    <a href="https://github.com/keerthana-rajeev/motorbike-frontend/issues/new/choose">Report Bugs</a>
     .
 </p>
