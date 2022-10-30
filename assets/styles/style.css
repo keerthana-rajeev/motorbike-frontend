@@ -291,7 +291,7 @@ footer {
     font-size: 5rem;
   }
   p {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
   #para, .con3-grid {
     width: -webkit-fit-content;
@@ -299,6 +299,7 @@ footer {
     width: fit-content;
   }
   .con3-grid {
+    justify-content: center;
     display: flex;
     flex-wrap: wrap;
   }

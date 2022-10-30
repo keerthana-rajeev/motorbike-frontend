@@ -282,12 +282,13 @@ button[data-filter="standard"]:focus ~ div:not([class*="standard"]) {
         font-size: 5rem;
     }
     p{
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
     #para, .con3-grid{
         width: fit-content;
     }
     .con3-grid{
+        justify-content: center;
         display: flex;
         flex-wrap: wrap; 
     }
