@@ -292,4 +292,7 @@ button[data-filter="standard"]:focus ~ div:not([class*="standard"]) {
         display: flex;
         flex-wrap: wrap; 
     }
+    #logo-img{
+        width: 10rem;
+    }
 }

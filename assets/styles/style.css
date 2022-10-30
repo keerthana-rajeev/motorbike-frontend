@@ -303,4 +303,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
   }
+  #logo-img {
+    width: 10rem;
+  }
 }/*# sourceMappingURL=style.css.map */
