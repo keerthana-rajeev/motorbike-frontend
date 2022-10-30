@@ -35,8 +35,7 @@ git clone https://github.com/keerthana-rajeev/motorbike-frontend.git
 * Change the working directory
 
 ```shell
-cd 
-motorbike-frontend/
+cd motorbike-frontend/
 ```
 ## GitHub page link
  [Check me out](https://keerthana-rajeev.github.io/motorbike-frontend/)
